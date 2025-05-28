@@ -14,6 +14,20 @@
 - Botão para “candidatar-se” (fluxo pode ser simulado se não houver back-end real)
 
 ---
+# Task Manager
+
+Aplicação Dart simples baseada em uma **história de usuário**.
+
+## História de Usuário
+
+> Como usuário de um sistema de tarefas,  
+> quero adicionar e visualizar tarefas,  
+> para poder organizar meu dia a dia.
+
+## Como Executar
+
+```bash
+dart lib/task_manager.dart
 
 
 
