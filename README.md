@@ -98,3 +98,6 @@ Cada uma recebe menção na escala acima, com base nos critérios descritos a se
 
 - A **menção final** em cada aspecto deve refletir **o nível predominante** observado no projeto.
 - O professor pode realizar um balanceamento, considerando também **entregas parciais**, **evolução** ao longo do desenvolvimento e a **consistência geral** entre documentação, código e design.
+
+
+
